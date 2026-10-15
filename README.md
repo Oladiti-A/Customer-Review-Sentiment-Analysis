@@ -34,6 +34,8 @@ These were removed, leaving **2,847 genuine reviews**. After keeping English-onl
 - **"Customer service"** is the most common phrase in negative reviews, alongside "not work" and "stopped working".
 - **Charging accessories** (chargers, cables, power banks) make up four of the ten products with the highest share of negative reviews.
 
+- 📄 See the full [model card](MODEL_CARD.md) for intended use, limitations and ethical considerations.
+
 ## Recommendations
 
 1. Automated review monitoring with alerts when a product's negative share rises
